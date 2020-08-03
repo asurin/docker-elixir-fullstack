@@ -3,7 +3,7 @@
 ### Synopsis
 This is a docker image aimed at providing a full-stack testing environment for both classic ExUnit test as well as browser-based testing using a framework such as Wallaby or Hound.
 
-The goal is to keep the environment as light as possible whilst still allowing a fully-fledged Chromium environment with the ability to run an Elixir program and compile assets using WebDriver
+The goal is to keep the environment as light as possible whilst still allowing a fully-fledged Chromium environment with the ability to run an Elixir program and compile assets using Webpack
 
 ### Info
 
